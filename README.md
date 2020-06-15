@@ -11,7 +11,7 @@ The project concerns document classification using natural language processing. 
 
 **Keywords**: NLP, Topic modeling, Word2vec, data analysis, machine learning classification, python, nltk, gensim, sklearn, LDA.
 
-* [Sentiment-analysis-reviews](https://github.com/aniass/Sentiment-analysis-reviews)
+* [Sentiment analysis reviews](https://github.com/aniass/Sentiment-analysis-reviews)
 
 The project concerns sentiment analysis of women's clothes reviews to determined whether the product is recommended or not. The analysis includes sentiment analysis and exploratory data analysis.
 
@@ -47,7 +47,7 @@ The project concerns the analysis of the IT job market using data from GitHub, S
 
 Web scraping from page Indeed.com.
 
-* [Extracting-data-using-API](https://github.com/aniass/Extracting-data-using-API)
+* [Extracting data using API](https://github.com/aniass/Extracting-data-using-API)
 
 In this project used the API to get the data and create a dataset. These are two examples of get the data from an API. The data received was saved in json format. Then they were exported to a csv file.
 
@@ -58,3 +58,5 @@ In this project used the API to get the data and create a dataset. These are two
 This Python script allows one to read a CSV file entered by the user, it changes the data contained in and returns the transformed data as a new CSV one.
 
 **Keywords**: python, pycountry.
+
+
