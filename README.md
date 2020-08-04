@@ -59,4 +59,12 @@ This Python script allows one to read a CSV file entered by the user, it changes
 
 **Keywords**: python, pycountry.
 
+### Workshops
 
+* DataWorkshop challenge (02-10.2019): 
+
+Challenge for beginners includes five workshops about Data Science. The topics concern [Machine Learning](https://github.com/aniass/DataWorkshop-challenge-1), [Deep Learning](https://github.com/aniass/DataWorkshop-challenge-2), [Autonomous cars](https://github.com/aniass/DataWorkshop-challenge-3), [NLP](https://github.com/aniass/DataWorkshop-challenge-4), [Time Series](https://github.com/aniass/DataWorkshop-challenge-5). 
+
+* Matrix challenge (02-04.2020):
+
+5 days challenge initialized by DataWorkshop consisting of three parts: [Machine Learning](https://github.com/aniass/dw_matrix), [Car price forecasting](https://github.com/aniass/dw_matrix_car), [Prediction road sign by computer vision ](https://github.com/aniass/dw_matrix_road_sign).
