@@ -5,17 +5,23 @@ This repository contains my Data Science/ Machine Learning and Python programmin
 ## Projects
 ### Machine learning:
 
+* [Sentiment analysis reviews](https://github.com/aniass/Sentiment-analysis-reviews)
+
+The project concerns sentiment analysis of women's clothes reviews to determined whether the product is recommended or not. The analysis includes sentiment analysis and exploratory data analysis.
+
+**Keywords**: NLP, sentiment analysis, data analysis, machine learning classification, python, nltk, scikit-learn.
+
 * [Document Classification](https://github.com/aniass/Document-Classification-NLP)
 
 The project concerns document classification using natural language processing. The text classification has been applied to the categorization of description of makeup products. The analysis includes the multi-class text classification, Topic Modeling, creation Word2vec model and previous analysis of makeup products.
 
 **Keywords**: NLP, Topic modeling, Word2vec, data analysis, machine learning classification, python, nltk, gensim, sklearn, LDA.
 
-* [Sentiment analysis reviews](https://github.com/aniass/Sentiment-analysis-reviews)
+* [Market Basket analysis](https://github.com/aniass/Market-basket-analysis)
 
-The project concerns sentiment analysis of women's clothes reviews to determined whether the product is recommended or not. The analysis includes sentiment analysis and exploratory data analysis.
+The project concerns market basket analysis and product recomendation by using the Apriori algorithm (association method). The project includes EDA analysis and basket analysis by the using Apriori algorithm.
 
-**Keywords**: NLP, sentiment analysis, data analysis, machine learning classification, python, nltk, scikit-learn.
+**Keywords**: MLxtend, data analysis, Apriori algorithm, python.
 
 * [Face Detection](https://github.com/aniass/Face-Detection-with-OpenCV)
 
@@ -42,7 +48,7 @@ The project concerns the analysis of the IT job market using data from GitHub, S
 
 **Keywords**: data preprocessing, data cleaning, exploratory data analysis, python, pandas, numpy, seaborn, SQL, Google BigQuery. 
 
-### Python scripts:
+### Python projects:
 * [Web Scraping](https://github.com/aniass/IT-job-market-analysis/blob/master/AS_web-scraping.ipynb)
 
 Web scraping from page Indeed.com.
@@ -59,7 +65,10 @@ This Python script allows one to read a CSV file entered by the user, it changes
 
 **Keywords**: python, pycountry.
 
-### Workshops
+## Education
+The some several workshops in which I participated.
+
+### Workshops:
 
 * DataWorkshop challenge (02-10.2019): 
 
