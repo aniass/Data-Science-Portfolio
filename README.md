@@ -13,7 +13,7 @@ The project concerns sentiment analysis of women's clothes reviews to determined
 
 * [Document Classification](https://github.com/aniass/Document-Classification-NLP)
 
-The project concerns document classification using natural language processing. The text classification has been applied to the categorization of description of makeup products. The analysis includes the multi-class text classification, Topic Modeling, creation Word2vec model and previous analysis of makeup products.
+The project concerns the multi-class text classification to make-up products based on their description and categories. The analysis includes the multi-class text classification, Topic Modeling, creation Word2vec model and EDA analysis of makeup products.
 
 **Keywords**: NLP, Topic modeling, Word2vec, data analysis, machine learning classification, python, nltk, gensim, sklearn, LDA.
 
