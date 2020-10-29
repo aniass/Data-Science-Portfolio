@@ -5,17 +5,23 @@ This repository contains my Data Science/ Machine Learning and Python programmin
 ## Projects
 ### Machine learning:
 
+* [Document Classification](https://github.com/aniass/Document-Classification-NLP)
+
+The project concerns the multi-class text classification to make-up products based on their description and categories. 
+
+The analysis includes:
+
+-- the multi-class text classification with:  ML algorithms,  Neural Network and CNN model, Doc2vec model, Word2vec model. 
+
+-- Topic Modeling and EDA analysis of makeup products.
+
+**Keywords**: NLP, Topic modeling, Doc2vec, Word2vec, data analysis, machine learning classification, CNN, python, nltk, gensim, keras, sklearn, LDA.
+
 * [Sentiment analysis reviews](https://github.com/aniass/Sentiment-analysis-reviews)
 
 The project concerns sentiment analysis of women's clothes reviews to determined whether the product is recommended or not. The analysis includes sentiment analysis and exploratory data analysis.
 
 **Keywords**: NLP, sentiment analysis, data analysis, machine learning classification, python, nltk, scikit-learn.
-
-* [Document Classification](https://github.com/aniass/Document-Classification-NLP)
-
-The project concerns the multi-class text classification to make-up products based on their description and categories. The analysis includes the multi-class text classification, Topic Modeling, creation Word2vec model and EDA analysis of makeup products.
-
-**Keywords**: NLP, Topic modeling, Word2vec, data analysis, machine learning classification, python, nltk, gensim, sklearn, LDA.
 
 * [Market Basket analysis](https://github.com/aniass/Market-basket-analysis)
 
@@ -65,10 +71,8 @@ This Python script allows one to read a CSV file entered by the user, it changes
 
 **Keywords**: python, pycountry.
 
-## Education
+## Workshops:
 The some several workshops in which I participated.
-
-### Workshops:
 
 * DataWorkshop challenge (02-10.2019): 
 
