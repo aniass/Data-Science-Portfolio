@@ -9,11 +9,8 @@ This repository contains my Data Science/ Machine Learning and Python programmin
 
 The project concerns the multi-class text classification to make-up products based on their description and categories. 
 
-The analysis includes:
-
--- the multi-class text classification with:  ML algorithms,  Neural Network and CNN model, Doc2vec model, Word2vec model. 
-
--- Topic Modeling and EDA analysis of makeup products.
+The analysis includes: the multi-class text classification with:  ML algorithms,  Neural Network and CNN model, Doc2vec model, Word2vec model. 
+Topic Modeling and EDA analysis of makeup products.
 
 **Keywords**: NLP, Topic modeling, Doc2vec, Word2vec, data analysis, machine learning classification, CNN, python, nltk, gensim, keras, sklearn, LDA.
 
@@ -72,7 +69,7 @@ This Python script allows one to read a CSV file entered by the user, it changes
 **Keywords**: python, pycountry.
 
 ## Workshops:
-The some several workshops in which I participated.
+The some several workshops in which I participated:
 
 * DataWorkshop challenge (02-10.2019): 
 
