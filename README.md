@@ -1,10 +1,34 @@
 # Portfolio
 
-This repository contains my Data Science/ Machine Learning and Python programming projects and information about education courses which shows my self-study progress. Some of projects are still in progress.
+This repository contains my Data Science/ Machine Learning and Python programming projects which shows my self-study progress. Some projects are still in progress.
 
 ## Projects
 ### Machine learning:
+* [Customer segmentation ](https://github.com/aniass/Customer-segmentation)
 
+The project contains customer segmentation by using the RFM method and K-Means clustering for creating customer segments based on data provided.
+
+**Keywords**: RFM method, K-Means clustering, python.
+
+* [Market Basket analysis](https://github.com/aniass/Market-basket-analysis)
+
+The project concerns market basket analysis and product recomendation by using the Apriori algorithm (association method). The project includes EDA analysis and basket analysis by the using Apriori algorithm.
+
+**Keywords**: MLxtend, data analysis, Apriori algorithm, python.
+
+* [Diabetes Prediction](https://github.com/aniass/Diabetes-Prediction)
+
+This project concern predicting the diabetes in a patient using different Machine Learning approaches (Logistic regression, KNN and Decision tree). 
+
+**Keywords**: data cleaning, exploratory data analysis, machine learning classification, Kaggle dataset, comparision of models, python, scikit-learn. 
+
+* [Titanic prediction](https://github.com/aniass/Titanic-Machine-Learning)
+
+The project concerns predicting the survival on the Titanic using Machine Learning approaches. 
+
+**Keywords**: data cleaning, exploratory data analysis, machine learning classification, Kaggle dataset, python, scikit-learn. 
+
+### NLP:
 * [Document Classification](https://github.com/aniass/Document-Classification-NLP)
 
 The project concerns the multi-class text classification to make-up products based on their description and categories. 
@@ -20,29 +44,12 @@ The project concerns sentiment analysis of women's clothes reviews to determined
 
 **Keywords**: NLP, sentiment analysis, data analysis, machine learning classification, python, nltk, scikit-learn.
 
-* [Market Basket analysis](https://github.com/aniass/Market-basket-analysis)
-
-The project concerns market basket analysis and product recomendation by using the Apriori algorithm (association method). The project includes EDA analysis and basket analysis by the using Apriori algorithm.
-
-**Keywords**: MLxtend, data analysis, Apriori algorithm, python.
-
+### Computer vision/Deep Learning:
 * [Face Detection](https://github.com/aniass/Face-Detection-with-OpenCV)
 
 In this project used OpenCV library to detect faces, eyes and smile in an image.
 
 **Keywords**: face detection, python, OpenCV, numpy, matplotlib.
-
-* [Diabetes Prediction](https://github.com/aniass/Diabetes-Prediction)
-
-This project concern predicting the diabetes in a patient using different Machine Learning approaches (Logistic regression, KNN and Decision tree). 
-
-**Keywords**: data cleaning, exploratory data analysis, machine learning classification, Kaggle dataset, comparision of models, python, scikit-learn. 
-
-* [Titanic prediction](https://github.com/aniass/Titanic-Machine-Learning)
-
-The project concerns predicting the survival on the Titanic using Machine Learning approaches. 
-
-**Keywords**: data cleaning, exploratory data analysis, machine learning classification, Kaggle dataset, python, scikit-learn. 
 
 ### Data analysis:
 * [IT job market analysis](https://github.com/aniass/IT-job-market-analysis)
@@ -52,10 +59,6 @@ The project concerns the analysis of the IT job market using data from GitHub, S
 **Keywords**: data preprocessing, data cleaning, exploratory data analysis, python, pandas, numpy, seaborn, SQL, Google BigQuery. 
 
 ### Python projects:
-* [Web Scraping](https://github.com/aniass/IT-job-market-analysis/blob/master/AS_web-scraping.ipynb)
-
-Web scraping from page Indeed.com.
-
 * [Extracting data using API](https://github.com/aniass/Extracting-data-using-API)
 
 In this project used the API to get the data and create a dataset. These are two examples of get the data from an API. The data received was saved in json format. Then they were exported to a csv file.
