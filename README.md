@@ -4,11 +4,23 @@ This repository contains my Data Science/ Machine Learning and Python programmin
 
 ## Projects
 ### Machine learning:
+* [Real Estate price prediction](https://github.com/aniass/Real-Estate-price-prediction)
+
+The project concerns real estate price prediction using different linear regression models (Ridge, Lasso, Elastic Net, Random Forest, Gradient Descent, XGBoost).
+
+**Keywords**: Linear regression, Random Forest, XGBoost, python, Kaggle dataset.
+
 * [Customer segmentation ](https://github.com/aniass/Customer-segmentation)
 
 The project contains customer segmentation by using the RFM method and K-Means clustering for creating customer segments based on data provided.
 
-**Keywords**: RFM method, K-Means clustering, python.
+**Keywords**: RFM method, K-Means clustering, python, Kaggle dataset.
+
+* [Sales forecasting](https://github.com/aniass/Task-Analyst)
+
+The project concerns sales forecasting by using time series model. The project includes sales data analysis and  forecast of the number of orders by using Prophet library.
+
+**Keywords**: Time Series, exploratory data analysis, Prophet, python.
 
 * [Market Basket analysis](https://github.com/aniass/Market-basket-analysis)
 
@@ -16,17 +28,17 @@ The project concerns market basket analysis and product recomendation by using t
 
 **Keywords**: MLxtend, data analysis, Apriori algorithm, python.
 
-* [Diabetes Prediction](https://github.com/aniass/Diabetes-Prediction)
-
-This project concern predicting the diabetes in a patient using different Machine Learning approaches (Logistic regression, KNN and Decision tree). 
-
-**Keywords**: data cleaning, exploratory data analysis, machine learning classification, Kaggle dataset, comparision of models, python, scikit-learn. 
-
 * [Titanic prediction](https://github.com/aniass/Titanic-Machine-Learning)
 
-The project concerns predicting the survival on the Titanic using Machine Learning approaches. 
+The project contains predicting the survival on the Titanic using Machine Learning approaches. 
 
 **Keywords**: data cleaning, exploratory data analysis, machine learning classification, Kaggle dataset, python, scikit-learn. 
+
+* [Diabetes Prediction](https://github.com/aniass/Diabetes-Prediction)
+
+This project concerns predicting the diabetes in a patient using different Machine Learning approaches (Logistic regression, KNN and Decision tree). 
+
+**Keywords**: data cleaning, exploratory data analysis, machine learning classification, Kaggle dataset, comparision of models, python. 
 
 ### NLP:
 * [Document Classification](https://github.com/aniass/Document-Classification-NLP)
