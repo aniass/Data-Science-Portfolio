@@ -50,6 +50,12 @@ Topic Modeling and EDA analysis of makeup products.
 
 **Keywords**: NLP, Topic modeling, Doc2vec, Word2vec, data analysis, machine learning classification, CNN, python, nltk, gensim, keras, sklearn, LDA.
 
+* [Spam detection](https://github.com/aniass/Spam-detection)
+
+The project concerns spam detection in SMS messages to determine whether the messages is spam or not. The analysis includes spam classification and text mining with NLP methods to prepare and clean data.
+
+**Keywords**: NLP, spam detection, machine learning classification, smote sampling, python, nltk, scikit-learn, imbalanced-learn.
+
 * [Sentiment analysis reviews](https://github.com/aniass/Sentiment-analysis-reviews)
 
 The project concerns sentiment analysis of women's clothes reviews to determined whether the product is recommended or not. The analysis includes sentiment analysis and exploratory data analysis.
