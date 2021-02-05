@@ -4,7 +4,7 @@ This repository contains my Data Science/ Machine Learning and Python programmin
 
 ## Projects
 
-### Deep Learning:
+## Deep Learning:
 ### [Document Classification](https://github.com/aniass/Document-Classification-NLP)
 
 The project concerns the text classification of make-up products based on their description and categories. We have build  multi-class text classification model (with ML alorithms, MLP and CNN). From our data  we also trained Word2vec and Doc2vec model  and we created Topic Modeling and EDA analysis.
@@ -12,7 +12,7 @@ The project concerns the text classification of make-up products based on their 
 - **Models used:**  TF-IDF, Word2vec, Doc2vec; Logistic Regression, SVM, Naive Bayes, Random Forest, MLP and CNN.
 - **Keywords**: NLP, Topic modeling, Python: nltk, gensim, keras, sklearn, LDA.
 
-### Machine learning:
+## Machine learning:
 **ML supervised & unsupervised  and Natural Language Processing**:
 
 ### [Sentiment analysis reviews](https://github.com/aniass/Sentiment-analysis-reviews)
@@ -56,13 +56,13 @@ In this project used OpenCV library to detect faces, eyes and smile in an image.
 - **Models used:** OpenCV: Harr Classifier.
 - **Keywords**: face detection, Python: OpenCV, numpy, matplotlib.
 
-### Data analysis:
+## Data analysis:
 ### [IT job market analysis](https://github.com/aniass/IT-job-market-analysis)
 
 The project concerns the analysis of the IT job market using data from GitHub, StackOverflow and Web scraping data. We have used SQL, Google Big Query and python data analysis libraries to analyze our data.
 - **Keywords**: data preprocessing, data cleaning, EDA, Python: pandas, numpy, seaborn; SQL, Google BigQuery. 
 
-[Excel to sqlite database with python](https://github.com/aniass/Excel-to-sqlite-database-with-python)
+### [Excel to sqlite database with python](https://github.com/aniass/Excel-to-sqlite-database-with-python)
 
 This Python script allows to match excel file with data from the database. We create an engine to connect with our database and load chose data into pandas dataframes. We select and filter data from database and match them to data comes from excel file.
 - **Keywords**: python, SQLite, pandas.
