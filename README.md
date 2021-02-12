@@ -12,6 +12,11 @@ The project concerns the text classification of make-up products based on their 
 - **Models used:**  TF-IDF, Word2vec, Doc2vec; Logistic Regression, SVM, Naive Bayes, Random Forest, MLP and CNN.
 - **Keywords**: NLP, Topic modeling, Python: nltk, gensim, keras, sklearn, LDA.
 
+### [Face Detection](https://github.com/aniass/Face-Detection-with-OpenCV)
+
+In this project used OpenCV library to detect faces, eyes and smile in an image.
+- **Models used:** OpenCV: Harr Classifier.
+- **Keywords**: face detection, Python: OpenCV, numpy, matplotlib.
 ## Machine learning:
 **ML supervised & unsupervised  and Natural Language Processing**:
 
@@ -49,12 +54,6 @@ The project concerns real estate price prediction using linear regression models
 The project concerns sales forecasting by using time series model. The project includes sales data analysis and forecast of the number of orders by using Prophet library.
 - **Models used:** Time Series.
 - **Keywords**: Exploratory data analysis, Prophet, python.
-
-### [Face Detection](https://github.com/aniass/Face-Detection-with-OpenCV)
-
-In this project used OpenCV library to detect faces, eyes and smile in an image.
-- **Models used:** OpenCV: Harr Classifier.
-- **Keywords**: face detection, Python: OpenCV, numpy, matplotlib.
 
 ## Data analysis:
 ### [IT job market analysis](https://github.com/aniass/IT-job-market-analysis)
