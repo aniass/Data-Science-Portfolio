@@ -12,11 +12,17 @@ The project concerns the text classification of make-up products based on their 
 - **Models used:**  TF-IDF, Word2vec, Doc2vec; Logistic Regression, SVM, Naive Bayes, Random Forest, MLP and CNN.
 - **Keywords**: NLP, Topic modeling, Python: nltk, gensim, keras, sklearn, LDA.
 
+### [Waste Classification](https://github.com/aniass/Waste-Classification)
+
+The project concerns waste classification to determine if it may be recycle or not. In our approach we will use a Convolutional Neural Network (CNN) model with data augumentation.
+- **Keywords**: CNN, data augumentation, Python: TensorFlow, keras.
+
 ### [Face Detection](https://github.com/aniass/Face-Detection-with-OpenCV)
 
 In this project used OpenCV library to detect faces, eyes and smile in an image.
 - **Models used:** OpenCV: Harr Classifier.
 - **Keywords**: face detection, Python: OpenCV, numpy, matplotlib.
+
 ## Machine learning:
 **ML supervised & unsupervised  and Natural Language Processing**:
 
