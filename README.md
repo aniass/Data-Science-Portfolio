@@ -5,17 +5,19 @@ This repository contains my Data Science/ Machine Learning and Python programmin
 ## Projects
 
 ## Deep Learning:
+
+### [Waste Classification](https://github.com/aniass/Waste-Classification)
+
+The project concerns waste classification to determine if it may be recycle or not. In our approach we will use a Convolutional Neural Network (CNN) model with data augumentation.
+
+- **Keywords**: CNN, data augumentation, Python: TensorFlow, Keras.
+
 ### [Document Classification](https://github.com/aniass/Document-Classification-NLP)
 
 The project concerns the text classification of make-up products based on their description and categories. We have build  multi-class text classification model (with ML alorithms, MLP and CNN). From our data  we also have trained Word2vec and Doc2vec model  and we have created Topic Modeling and EDA analysis.
 
 - **Models used:**  TF-IDF, Word2vec, Doc2vec; Logistic Regression, SVM, Naive Bayes, Random Forest, MLP and CNN.
 - **Keywords**: NLP, Topic modeling, Python: nltk, gensim, keras, sklearn, LDA.
-
-### [Waste Classification](https://github.com/aniass/Waste-Classification)
-
-The project concerns waste classification to determine if it may be recycle or not. In our approach we will use a Convolutional Neural Network (CNN) model with data augumentation.
-- **Keywords**: CNN, data augumentation, Python: TensorFlow, keras.
 
 ### [Face Detection](https://github.com/aniass/Face-Detection-with-OpenCV)
 
