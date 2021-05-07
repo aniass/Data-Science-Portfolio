@@ -21,9 +21,9 @@ In this project used OpenCV library to detect faces, eyes and smile in an image.
 
 ## Natural Language Processing:
 
-### [Document Classification](https://github.com/aniass/Document-Classification-NLP)
+### [Product Categorization](https://github.com/aniass/Document-Classification-NLP)
 
-The project concerns the text classification of make-up products based on their description and categories. We have build  multi-class text classification model (with ML alorithms, MLP and CNN). From our data we also have trained Word2vec and Doc2vec model and we have created Topic Modeling and EDA analysis.
+The project concerns the text classification of make-up products based on their description. We have build multi-class text classification model (with ML alorithms, MLP and CNN) to predict the category of a product. From our data we also have trained Word2vec and Doc2vec model and we have created Topic Modeling and EDA analysis.
 
 - **Models used:** MLP, CNN, Logistic Regression, SVM, Naive Bayes, Random Forest; Word2vec, Doc2vec.
 - **Keywords**: NLP, Topic modeling; nltk, gensim, keras, sklearn, LDA.
