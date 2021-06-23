@@ -80,11 +80,17 @@ The project concerns the analysis of the IT job market using data from GitHub, S
 
 ### [Waste app](https://github.com/aniass/Waste-app)
 
-TThat is Streamlit application with using a Deep Learning model to determine if a given waste are recycle or organic. We used a previous trained CNN (Convolutional Neural Netw orks) algorithm to detect waste.
+That is Streamlit application with using a Deep Learning model to determine if a given waste are recycle or organic. We used a previous trained CNN (Convolutional Neural Netw orks) algorithm to detect waste.
 - **Keywords**: python, streamlit, tensorflow, pillow.
 
 ### [Excel to sqlite database with python](https://github.com/aniass/Excel-to-sqlite-database-with-python)
 
 This Python script allows to match excel file with data from the database. We create an engine to connect with our database and load chose data into pandas dataframes. We select and filter data from database and match them to data comes from excel file.
 - **Keywords**: python, SQLite, pandas.
+
+### [Extracting data using API](https://github.com/aniass/Extracting-data-using-API)
+
+In this project used the API to get the data and create a dataset. These are two examples of get the data from an API. The data received was saved in json format. Then they were exported to a csv file.
+- **Keywords**: python, requests, pandas.
+
 
