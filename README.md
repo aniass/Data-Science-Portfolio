@@ -1,10 +1,10 @@
-# Data Science Portfolio
+# Data Science Projects Portfolio
 
-This repository contains my Data Science/ Machine Learning and Python programming projects which shows my all self-study progress. Some projects are still in progress.
+The repository contains my Data Science (Machine Learning and Deep Learning), data analysis and python programming projects which show my all self-study progress. It includes projects from Machine Learning (supervised & unsupervised), Computer Vision and Natural Language Processing. Some projects are still in progress. 
 
 ## Projects
 
-## Deep Learning:
+## Computer vision/Image processing:
 
 ### [Waste Classification](https://github.com/aniass/Waste-Classification)
 
@@ -69,11 +69,19 @@ The project concerns sales forecasting by using time series model. The project i
 - **Models used:** Time Series.
 - **Keywords**: Exploratory data analysis, Prophet, python.
 
+
 ## Data analysis:
 ### [IT job market analysis](https://github.com/aniass/IT-job-market-analysis)
 
 The project concerns the analysis of the IT job market using data from GitHub, StackOverflow and Web scraping data. We have used SQL, Google Big Query and python data analysis libraries to analyze our data.
 - **Keywords**: data preprocessing, data cleaning, EDA, Python: pandas, numpy, seaborn; SQL, Google BigQuery. 
+
+## Python projects
+
+### [Waste app](https://github.com/aniass/Waste-app)
+
+TThat is Streamlit application with using a Deep Learning model to determine if a given waste are recycle or organic. We used a previous trained CNN (Convolutional Neural Netw orks) algorithm to detect waste.
+- **Keywords**: python, streamlit, tensorflow, pillow.
 
 ### [Excel to sqlite database with python](https://github.com/aniass/Excel-to-sqlite-database-with-python)
 
