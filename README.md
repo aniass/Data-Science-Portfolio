@@ -2,7 +2,7 @@
 
 The repository contains my Data Science (Machine Learning and Deep Learning), data analysis and python programming projects which show my all self-study progress. It includes projects from Machine Learning (supervised & unsupervised), Computer Vision and Natural Language Processing. Some projects are still in progress. 
 
-## Projects
+## Projects:
 
 ## Computer vision/Image processing:
 
@@ -28,19 +28,19 @@ The project concerns the text classification of make-up products based on their 
 - **Models used:** MLP, CNN, Logistic Regression, SVM, Naive Bayes, Random Forest; Word2vec, Doc2vec.
 - **Keywords**: NLP, Topic modeling; nltk, gensim, keras, sklearn, LDA.
 
+### [Spam detection](https://github.com/aniass/Spam-detection)
+
+The project concerns spam detection in SMS messages to determine whether the messages is spam or not. We have build model by using pretrained BERT model and different machine learning algorithms. The analysis includes also text mining with NLP methods to prepare and clean data.
+
+- **Models used:** BERT, Logistic Regression, Naive Bayes, SVM, Random Forest.
+- **Keywords**: NLP, transformers, spam detection, smote sampling, Python: nltk, scikit-learn, Hugging Face, imbalanced-learn.
+
 ### [Sentiment analysis reviews](https://github.com/aniass/Sentiment-analysis-reviews)
 
 The project concerns sentiment analysis of women's clothes reviews. We have build model to predict if the review is positive or negative. We used different machine learning algorithms and a pre-trained Glove word embeddings with Bidirectional LSTM. The project also includes EDA analysis and sentiment analysis by using Vader and TextBlob methods.
 
 - **Models used:** LSTM, Glove, Logistic Regression, Naive Bayes, SVM.
 - **Keywords**: NLP, sentiment analysis, TextBlob, Vader; Keras, TensorFlow, nltk, scikit-learn.
-
-### [Spam detection](https://github.com/aniass/Spam-detection)
-
-The project concerns spam detection in SMS messages to determine whether the messages is spam or not. The analysis includes spam classification and text mining with NLP methods to prepare and clean data.
-
-- **Models used:** Logistic Regression, Naive Bayes, SVM, Random Forest.
-- **Keywords**: NLP, spam detection, smote sampling, Python: nltk, scikit-learn, imbalanced-learn.
 
 ## Machine learning:
 **ML supervised & unsupervised**:
@@ -80,7 +80,7 @@ The project concerns the analysis of the IT job market using data from GitHub, S
 
 ### [Waste app](https://github.com/aniass/Waste-app)
 
-That is Streamlit application with using a Deep Learning model to determine if a given waste are recycle or organic. We used a previous trained CNN (Convolutional Neural Netw orks) algorithm to detect waste.
+That is Streamlit application with using a Deep Learning model to determine if a given waste are recycle or organic. We used a previous trained CNN (Convolutional Neural Networks) algorithm to detect waste.
 - **Keywords**: python, streamlit, tensorflow, pillow.
 
 ### [Excel to sqlite database with python](https://github.com/aniass/Excel-to-sqlite-database-with-python)
