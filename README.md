@@ -47,7 +47,7 @@ The project concerns sentiment analysis of women's clothes reviews. We have buil
 
 ### [Customer segmentation ](https://github.com/aniass/Customer-segmentation)
 
-The project contains customer segmentation by using the RFM method and K-Means clustering for creating customer segments based on data provided.
+The project contains customer segmentation by using the RFM method (RFM score) and K-Means clustering for creating customer segments based on data provided.
 - **Models used:** K-Means;
 - **Keywords**: RFM method, K-Means clustering, Python.
 
