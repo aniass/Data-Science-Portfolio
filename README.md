@@ -6,18 +6,25 @@ The repository contains my Data Science (Machine Learning and Deep Learning), da
 
 ## Computer vision/Image processing:
 
+### [Plant pathology](https://github.com/aniass/Plant-pathology)
+
+The project concerns recognition diseases on apple leaves based on their images. The solution includes data analysis, data preparation and CNN model with data augmentation to recognition of leaves diseases.
+
+- **Models used:** Convolutional Neural Network.
+- **Keywords**: Image Recognition, data augumentation, Python: tensorflow, keras, pandas, numpy, scikit-learn, seaborn, pillow.
+
 ### [Waste Classification](https://github.com/aniass/Waste-Classification)
 
 The project concerns waste classification to determine if it may be recycle or not. In our approach we will use a Convolutional Neural Network (CNN) model with data augumentation.
 
 - **Models used:** Convolutional Neural Network.
-- **Keywords**: Image Recognition, data augumentation, Python: TensorFlow, Keras.
+- **Keywords**: Image Recognition, data augumentation, Python: tensorflow, keras, numpy, matplotlib .
 
 ### [Face Detection](https://github.com/aniass/Face-Detection-with-OpenCV)
 
 In this project used OpenCV library to detect faces, eyes and smile in an image.
 - **Models used:** OpenCV: Harr Classifier.
-- **Keywords**: Face detection, Python: OpenCV, numpy, matplotlib.
+- **Keywords**: Face detection, Python: OpenCV, pillow, numpy, matplotlib.
 
 ## Natural Language Processing:
 
@@ -48,8 +55,8 @@ The project concerns sentiment analysis of women's clothes reviews. We have buil
 ### [Customer segmentation ](https://github.com/aniass/Customer-segmentation)
 
 The project contains customer segmentation by using the RFM method (RFM score) and K-Means clustering for creating customer segments based on data provided.
-- **Models used:** K-Means;
-- **Keywords**: RFM method, K-Means clustering, Python.
+- **Models used:** K-Means, RFM method;
+- **Keywords**: RFM, K-Means clustering, Python: pandas, scikit-learn, scipy, matplotlib. 
 
 ### [Market Basket analysis](https://github.com/aniass/Market-basket-analysis)
 
@@ -57,17 +64,17 @@ The project concerns market basket analysis and product recomendation by using t
 - **Models used:** Apriori algorithm.
 - **Keywords**: product recomendation, data analysis, python, MLxtend.
 
-### [Real Estate price prediction](https://github.com/aniass/Real-Estate-price-prediction)
-
-The project concerns real estate price prediction using linear regression models. We have build a model which predict real estate price based on historical data.
-- **Models used:** Ridge, Lasso, Elastic Net, Random Forest, Gradient Descent, XGBoost.
-- **Keywords**: Linear regression, Python: Scikit-learn.
-
 ### [Sales forecasting](https://github.com/aniass/Task-Analyst)
 
 The project concerns sales forecasting by using time series model. The project includes sales data analysis and forecast of the number of orders by using Prophet library.
 - **Models used:** Time Series.
 - **Keywords**: Exploratory data analysis, Prophet, python.
+
+### [Real Estate price prediction](https://github.com/aniass/Real-Estate-price-prediction)
+
+The project concerns real estate price prediction using linear regression models. We have build a model which predict real estate price based on historical data.
+- **Models used:** Ridge, Lasso, Elastic Net, Random Forest, Gradient Descent, XGBoost.
+- **Keywords**: Linear regression, Python: pandas, numpy, scikit-learn.
 
 
 ## Data analysis:
@@ -91,6 +98,6 @@ This Python script allows to match excel file with data from the database. We cr
 ### [Extracting data using API](https://github.com/aniass/Extracting-data-using-API)
 
 In this project used the API to get the data and create a dataset. These are two examples of get the data from an API. The data received was saved in json format. Then they were exported to a csv file.
-- **Keywords**: python, requests, pandas.
+- **Keywords**: python, pandas, requests, json.
 
 
