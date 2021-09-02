@@ -28,12 +28,12 @@ In this project used OpenCV library to detect faces, eyes and smile in an image.
 
 ## Natural Language Processing:
 
-### [Product Categorization](https://github.com/aniass/Document-Classification-NLP)
+### [Product Categorization](https://github.com/aniass/Product-Categorization-NLP)
 
-The project concerns the text classification of make-up products based on their description. We have build multi-class text classification model (with ML alorithms, MLP and CNN) to predict the category of a product. From our data we also have trained Word2vec and Doc2vec model and we have created Topic Modeling and EDA analysis.
+The project concerns product categorization (make-up products) based on their description. We have build multi-class text classification model (with ML alorithms, MLP, CNN and Distilbert models) to predict the category of a product. From our data we also have trained Word2vec and Doc2vec model and we have created Topic Modeling and EDA analysis.
 
-- **Models used:** MLP, CNN, Logistic Regression, SVM, Naive Bayes, Random Forest; Word2vec, Doc2vec.
-- **Keywords**: NLP, Topic modeling; nltk, gensim, keras, sklearn, LDA.
+- **Models used:** MLP, CNN, Distilbert, Logistic Regression, SVM, Naive Bayes, Random Forest; Word2vec, Doc2vec.
+- **Keywords**: NLP, text classification, transformers, topic modeling; Python:nltk, gensim, scikit-learn  keras, tensorflow, Hugging Face, LDA.
 
 ### [Spam detection](https://github.com/aniass/Spam-detection)
 
@@ -64,7 +64,7 @@ The project concerns market basket analysis and product recomendation by using t
 - **Models used:** Apriori algorithm.
 - **Keywords**: product recomendation, data analysis, python, MLxtend.
 
-### [Sales forecasting](https://github.com/aniass/Task-Analyst)
+### [Sales forecasting](https://github.com/aniass/Sales-forecasting)
 
 The project concerns sales forecasting by using time series model. The project includes sales data analysis and forecast of the number of orders by using Prophet library.
 - **Models used:** Time Series.
