@@ -60,7 +60,7 @@ The project contains customer segmentation by using the RFM method (RFM score) a
 
 ### [Market Basket analysis](https://github.com/aniass/Market-basket-analysis)
 
-The project concerns market basket analysis and product recomendation by using the association methods. We have build model by using the Apriori algorithm to products recomendation based on our data.
+The project concerns market basket analysis and product recommendation by using the association methods. We have build model by using the Apriori algorithm to products recomendation based on our data.
 - **Models used:** Apriori algorithm.
 - **Keywords**: product recomendation, data analysis, python, MLxtend.
 
