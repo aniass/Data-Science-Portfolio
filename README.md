@@ -83,6 +83,12 @@ The project concerns real estate price prediction using linear regression models
 The project concerns the analysis of the IT job market using data from GitHub, StackOverflow and Web scraping data. We have used SQL, Google Big Query and python data analysis libraries to analyze our data.
 - **Keywords**: data preprocessing, data cleaning, EDA, Python: pandas, numpy, seaborn; SQL, Google BigQuery. 
 
+### [Air quality analysis](https://github.com/aniass/Air-quality-analysis)
+
+The project includes data analysis and outliers detection of air quality data. The outliers detection have been made with a few methods such as Tukey's method (IQR) and Isolation Forest algorithm.
+- **Models used:** Isolation Forest.
+- **Keywords**: data analysis, outliers detection, Python: pandas, numpy, scikit-learn, seaborn.
+
 ## Python projects
 
 ### [Waste app](https://github.com/aniass/Waste-app)
