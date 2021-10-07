@@ -20,12 +20,6 @@ The project concerns waste classification to determine if it may be recycle or n
 - **Models used:** Convolutional Neural Network.
 - **Keywords**: Image Recognition, data augumentation, Python: tensorflow, keras, numpy, matplotlib .
 
-### [Face Detection](https://github.com/aniass/Face-Detection-with-OpenCV)
-
-In this project used OpenCV library to detect faces, eyes and smile in an image.
-- **Models used:** OpenCV: Harr Classifier.
-- **Keywords**: Face detection, Python: OpenCV, pillow, numpy, matplotlib.
-
 ## Natural Language Processing:
 
 ### [Product Categorization](https://github.com/aniass/Product-Categorization-NLP)
@@ -51,6 +45,11 @@ The project concerns sentiment analysis of women's clothes reviews. We have buil
 
 ## Machine learning:
 **ML supervised & unsupervised**:
+
+### [Churn prediction](https://github.com/aniass/Churn-prediction)
+The project concerns churn prediction in the bank customers. It includes data analysis, data preparation and create model by using different machine learning algorithms.
+- **Models used:** Logistic Regression, Random Forest, KNN, SVC, XGBoost;
+- **Keywords**: Churn prediction, Python: pandas, scikit-learn, seaborn, matplotlib, xgboost.
 
 ### [Customer segmentation ](https://github.com/aniass/Customer-segmentation)
 
@@ -95,6 +94,12 @@ The project includes data analysis and outliers detection of air quality data. T
 
 That is Streamlit application with using a Deep Learning model to determine if a given waste are recycle or organic. We used a previous trained CNN (Convolutional Neural Networks) algorithm to detect waste.
 - **Keywords**: python, streamlit, tensorflow, pillow.
+
+### [Face Detection](https://github.com/aniass/Face-Detection-with-OpenCV)
+
+In this project used OpenCV library to detect faces, eyes and smile in an image.
+- **Models used:** OpenCV: Harr Classifier.
+- **Keywords**: Face detection, Python: OpenCV, pillow, numpy, matplotlib.
 
 ### [Excel to sqlite database with python](https://github.com/aniass/Excel-to-sqlite-database-with-python)
 
