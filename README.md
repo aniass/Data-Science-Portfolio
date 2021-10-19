@@ -18,7 +18,7 @@ The project concerns recognition diseases on apple leaves based on their images.
 The project concerns waste classification to determine if it may be recycle or not. In our approach we will use a Convolutional Neural Network (CNN) model with data augumentation.
 
 - **Models used:** Convolutional Neural Network.
-- **Keywords**: Image Recognition, data augumentation, Python: tensorflow, keras, numpy, matplotlib .
+- **Keywords**: Image Recognition, data augumentation, Python: tensorflow, keras, numpy, matplotlib.
 
 ## Natural Language Processing:
 
@@ -74,7 +74,6 @@ The project concerns sales forecasting by using time series model. The project i
 The project concerns real estate price prediction using linear regression models. We have build a model which predict real estate price based on historical data.
 - **Models used:** Ridge, Lasso, Elastic Net, Random Forest, Gradient Descent, XGBoost.
 - **Keywords**: Linear regression, Python: pandas, numpy, scikit-learn.
-
 
 ## Data analysis:
 ### [IT job market analysis](https://github.com/aniass/IT-job-market-analysis)
