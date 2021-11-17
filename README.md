@@ -24,7 +24,7 @@ The project concerns waste classification to determine if it may be recycle or n
 
 ### [Product Categorization](https://github.com/aniass/Product-Categorization-NLP)
 
-The project concerns product categorization (make-up products) based on their description. We have build multi-class text classification model (with ML alorithms, MLP, CNN and Distilbert model) to predict the category of a product. From our data we also have trained Word2vec and Doc2vec model and we have created Topic Modeling and EDA analysis.
+The project concerns product categorization (make-up products) based on their description. We have build multi-class text classification model (with ML algorithms, MLP, CNN and Distilbert model) to predict the category (type) of a product. From our data we also have trained Word2vec and Doc2vec model and we have created Topic Modeling and EDA analysis.
 
 - **Models used:** MLP, CNN, Distilbert, Logistic Regression, SVM, Naive Bayes, Random Forest; Word2vec, Doc2vec.
 - **Keywords**: NLP, text classification, transformers, topic modeling; Python: nltk, gensim, scikit-learn, keras, tensorflow, Hugging Face, LDA.
@@ -47,7 +47,7 @@ The project concerns sentiment analysis of women's clothes reviews. We have buil
 **ML supervised & unsupervised**:
 
 ### [Churn prediction](https://github.com/aniass/Churn-prediction)
-The project concerns churn prediction in the bank customers. It includes data analysis, data preparation and create model by using different machine learning algorithms
+The project concerns churn prediction in the bank customers. It includes data analysis, data preparation and create model by using different machine learning algorithms to predict whether the client is going to leave the bank or not.
 
 - **Models used:** Logistic Regression, Random Forest, KNN, SVC, XGBoost;
 - **Keywords**: Churn prediction, Python: pandas, scikit-learn, seaborn, matplotlib, xgboost.
