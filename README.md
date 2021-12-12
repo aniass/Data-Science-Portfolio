@@ -8,10 +8,10 @@ The repository contains my Data Science (Machine Learning and Deep Learning), da
 
 ### [Plant pathology](https://github.com/aniass/Plant-pathology)
 
-The project concerns recognition diseases on apple leaves based on their images. The solution includes data analysis, data preparation and CNN model with data augmentation to recognition of leaves diseases.
+The project concerns recognition diseases on apple leaves based on their images. The solution includes data analysis, data preparation, CNN model with data augmentation and transfer learning to recognition of leaves diseases.
 
-- **Models used:** Convolutional Neural Network.
-- **Keywords**: Image Recognition, data augumentation, Python: tensorflow, keras, pandas, numpy, scikit-learn, seaborn, pillow.
+- **Models used:** Convolutional Neural Network, MobileNet V2.
+- **Keywords**: Image Recognition, data augumentation, transfer learning; Python: tensorflow, keras, pandas, numpy, scikit-learn, seaborn, pillow, opencv.
 
 ### [Waste Classification](https://github.com/aniass/Waste-Classification)
 
