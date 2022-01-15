@@ -1,47 +1,8 @@
 # Data Science Projects Portfolio
 
-The repository contains my Data Science (Machine Learning and Deep Learning), data analysis and python programming projects which show my all self-study progress. It includes projects from Machine Learning (supervised & unsupervised), Computer Vision and Natural Language Processing. Some projects are still in progress. 
+The repository contains my Data Science (Machine Learning, Deep Learning and NLP), data analysis and python programming projects which show my all self-study progress. It includes projects from Machine Learning (supervised & unsupervised), Computer Vision and Natural Language Processing. Some projects are still in progress. 
 
 ## Projects:
-
-## Computer vision/Image processing:
-
-### [Plant pathology](https://github.com/aniass/Plant-pathology)
-
-The project concerns recognition diseases on apple leaves based on their images. The solution includes data analysis, data preparation, CNN model with data augmentation and transfer learning to recognition of leaves diseases.
-
-- **Models used:** Convolutional Neural Network, MobileNet V2.
-- **Keywords**: Image Recognition, data augumentation, transfer learning; Python: tensorflow, keras, pandas, numpy, scikit-learn, seaborn, pillow, opencv.
-
-### [Waste Classification](https://github.com/aniass/Waste-Classification)
-
-The project concerns waste classification to determine if it may be recycle or not. In our approach we will use a Convolutional Neural Network (CNN) model with data augumentation.
-
-- **Models used:** Convolutional Neural Network.
-- **Keywords**: Image Recognition, data augumentation, Python: tensorflow, keras, numpy, matplotlib.
-
-## Natural Language Processing:
-
-### [Product Categorization](https://github.com/aniass/Product-Categorization-NLP)
-
-The project concerns product categorization (make-up products) based on their description. We have build multi-class text classification model (with ML algorithms, MLP, CNN and Distilbert model) to predict the category (type) of a product. From our data we also have trained Word2vec and Doc2vec model and we have created Topic Modeling and EDA analysis.
-
-- **Models used:** MLP, CNN, Distilbert, Logistic Regression, SVM, Naive Bayes, Random Forest; Word2vec, Doc2vec.
-- **Keywords**: NLP, text classification, transformers, topic modeling; Python: nltk, gensim, scikit-learn, keras, tensorflow, Hugging Face, LDA.
-
-### [Spam detection](https://github.com/aniass/Spam-detection)
-
-The project concerns spam detection in SMS messages to determine whether the messages is spam or not. We have build model by using pretrained BERT model and different machine learning algorithms. The analysis includes also text mining with NLP methods to prepare and clean data.
-
-- **Models used:** BERT, Logistic Regression, Naive Bayes, SVM, Random Forest.
-- **Keywords**: NLP, transformers, spam detection, smote sampling, Python: nltk, scikit-learn, Hugging Face, imbalanced-learn.
-
-### [Sentiment analysis reviews](https://github.com/aniass/Sentiment-analysis-reviews)
-
-The project concerns sentiment analysis of women's clothes reviews. We have build model to predict if the review is positive or negative. We used different machine learning algorithms and a pre-trained Glove word embeddings with Bidirectional LSTM. The project also includes EDA analysis and sentiment analysis by using Vader and TextBlob methods.
-
-- **Models used:** LSTM, Glove, Logistic Regression, Naive Bayes, SVM.
-- **Keywords**: NLP, sentiment analysis, TextBlob, Vader; Keras, TensorFlow, nltk, scikit-learn, pandas.
 
 ## Machine learning:
 **ML supervised & unsupervised**:
@@ -76,6 +37,51 @@ The project concerns real estate price prediction using linear regression models
 - **Models used:** Ridge, Lasso, Elastic Net, Random Forest, Gradient Descent, XGBoost.
 - **Keywords**: Linear regression, Python: pandas, numpy, scikit-learn.
 
+## Natural Language Processing:
+
+### [Product Categorization](https://github.com/aniass/Product-Categorization-NLP)
+
+The project concerns product categorization (make-up products) based on their description. We have build multi-class text classification model (with ML algorithms, MLP, CNN and Distilbert model) to predict the category (type) of a product. From our data we also have trained Word2vec and Doc2vec model and we have created Topic Modeling and EDA analysis.
+
+- **Models used:** MLP, CNN, Distilbert, Logistic Regression, SVM, Naive Bayes, Random Forest; Word2vec, Doc2vec.
+- **Keywords**: NLP, text classification, transformers, topic modeling; Python: nltk, gensim, scikit-learn, keras, tensorflow, Hugging Face, LDA.
+
+### [Spam detection](https://github.com/aniass/Spam-detection)
+
+The project concerns spam detection in SMS messages to determine whether the messages is spam or not. We have build model by using pretrained BERT model and different machine learning algorithms. The analysis includes also text mining with NLP methods to prepare and clean data.
+
+- **Models used:** BERT, Logistic Regression, Naive Bayes, SVM, Random Forest.
+- **Keywords**: NLP, transformers, spam detection, smote sampling, Python: nltk, scikit-learn, Hugging Face, imbalanced-learn.
+
+### [Sentiment analysis reviews](https://github.com/aniass/Sentiment-analysis-reviews)
+
+The project concerns sentiment analysis of women's clothes reviews. We have build model to predict if the review is positive or negative. We used different machine learning algorithms and a pre-trained Glove word embeddings with Bidirectional LSTM. The project also includes EDA analysis and sentiment analysis by using Vader and TextBlob methods.
+
+- **Models used:** LSTM, Glove, Logistic Regression, Naive Bayes, SVM.
+- **Keywords**: NLP, sentiment analysis, TextBlob, Vader; Keras, TensorFlow, nltk, scikit-learn, pandas.
+
+## Computer vision/Image processing:
+
+### [Plant pathology](https://github.com/aniass/Plant-pathology)
+
+The project concerns recognition diseases on apple leaves based on their images. The solution includes data analysis, data preparation, CNN model with data augmentation and transfer learning to recognition of leaves diseases.
+
+- **Models used:** Convolutional Neural Network, MobileNet V2.
+- **Keywords**: Image Recognition, data augumentation, transfer learning; Python: tensorflow, keras, pandas, numpy, scikit-learn, seaborn, pillow, opencv.
+
+### [Waste Classification](https://github.com/aniass/Waste-Classification)
+
+The project concerns waste classification to determine if it may be recycle or not. In our approach we will use a Convolutional Neural Network (CNN) model with data augumentation.
+
+- **Models used:** Convolutional Neural Network.
+- **Keywords**: Image Recognition, data augumentation, Python: tensorflow, keras, numpy, matplotlib.
+
+### [Face Detection](https://github.com/aniass/Face-Detection-with-OpenCV)
+
+In this project used OpenCV library to detect faces, eyes and smile in an image.
+- **Models used:** OpenCV: Harr Classifier.
+- **Keywords**: Face detection, Python: OpenCV, pillow, numpy, matplotlib.
+
 ## Data analysis:
 ### [IT job market analysis](https://github.com/aniass/IT-job-market-analysis)
 
@@ -94,12 +100,6 @@ The project includes data analysis and outliers detection of air quality data. T
 
 That is Streamlit application with using a Deep Learning model to determine if a given waste are recycle or organic. We used a previous trained CNN (Convolutional Neural Networks) algorithm to detect waste.
 - **Keywords**: python, streamlit, tensorflow, pillow.
-
-### [Face Detection](https://github.com/aniass/Face-Detection-with-OpenCV)
-
-In this project used OpenCV library to detect faces, eyes and smile in an image.
-- **Models used:** OpenCV: Harr Classifier.
-- **Keywords**: Face detection, Python: OpenCV, pillow, numpy, matplotlib.
 
 ### [Excel to sqlite database with python](https://github.com/aniass/Excel-to-sqlite-database-with-python)
 
