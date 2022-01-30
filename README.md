@@ -7,6 +7,12 @@ The repository contains my Data Science (Machine Learning, Deep Learning and NLP
 ## Machine learning:
 **ML supervised & unsupervised**:
 
+### [Books Recommendation System](https://github.com/aniass/books-recommender-system)
+The project concerns the books recommendation system. It includes data analysis, data preparation and build model by using colaborative filtering and matrix factorization to get books recommendations.
+
+- **Models used:** KNN, colaborative filtering, matrix factorization;
+- **Keywords**: recommendation system , python: pandas, scikit-learn, seaborn, matplotlib.
+
 ### [Churn prediction](https://github.com/aniass/Churn-prediction)
 The project concerns churn prediction in the bank customers. It includes data analysis, data preparation and create model by using different machine learning algorithms to predict whether the client is going to leave the bank or not.
 
