@@ -107,6 +107,11 @@ The project includes data analysis and outliers detection of air quality data. T
 That is Streamlit application with using a Deep Learning model to determine if a given waste are recycle or organic. We used a previous trained CNN (Convolutional Neural Networks) algorithm to detect waste.
 - **Keywords**: python, streamlit, tensorflow, pillow.
 
+### [CRUD in python and SQLite](https://github.com/aniass/crud-sqlite3)
+
+The script allows to make a basic crud operations by using python and SQLite3. 
+- **Keywords**: python, SQLite.
+
 ### [Excel to sqlite database with python](https://github.com/aniass/Excel-to-sqlite-database-with-python)
 
 This Python script allows to match excel file with data from the database. We create an engine to connect with our database and load chose data into pandas dataframes. We select and filter data from database and match them to data comes from excel file.
