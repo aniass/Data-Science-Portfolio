@@ -52,6 +52,13 @@ The project concerns product categorization (make-up products) based on their de
 - **Models used:** MLP, CNN, Distilbert, Logistic Regression, SVM, Naive Bayes, Random Forest; Word2vec, Doc2vec.
 - **Keywords**: NLP, text classification, transformers, topic modeling; Python: nltk, gensim, scikit-learn, keras, tensorflow, Hugging Face, LDA.
 
+### [Text Summarization](https://github.com/aniass/text-summarizer)
+
+Text summarization based on extractive and abstractive methods by using python. The analysis includes text summary by calculating word frequency with spacy library, TFIDF vectorizer implementation, automatic text summarization with gensim library and abstractive techniques by using Hugging Face library.
+
+- **Models used:** word frequency, TFIDF vectorizer, BART.
+- **Keywords**: text summarization, transformers, BART, Python: spacy, heapq, nltk, scikit-learn, gensim, transformers.
+
 ### [Spam detection](https://github.com/aniass/Spam-detection)
 
 The project concerns spam detection in SMS messages to determine whether the messages is spam or not. We have build model by using pretrained BERT model and different machine learning algorithms. The analysis includes also text mining with NLP methods to prepare and clean data.
