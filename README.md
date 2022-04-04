@@ -57,7 +57,7 @@ The project concerns product categorization (make-up products) based on their de
 Text summarization based on extractive and abstractive methods by using python. The analysis includes text summary by calculating word frequency with spacy library, TFIDF vectorizer implementation, automatic text summarization with gensim library and abstractive techniques by using Hugging Face library.
 
 - **Models used:** word frequency, TFIDF vectorizer, BART.
-- **Keywords**: text summarization, transformers, BART, Python: spacy, heapq, nltk, scikit-learn, gensim, transformers.
+- **Keywords**: text summarization, transformers, BART, Python: spacy, nltk, scikit-learn, gensim.
 
 ### [Spam detection](https://github.com/aniass/Spam-detection)
 
