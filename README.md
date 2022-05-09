@@ -1,6 +1,6 @@
 # Data Science Projects Portfolio
 
-The repository contains my Data Science (Machine Learning, Deep Learning and NLP), data analysis and python programming projects which show my all self-study progress. It includes projects from Machine Learning (supervised & unsupervised), Computer Vision and Natural Language Processing. Some projects are still in progress. 
+The repository contains my data science, data analysis and python programming projects which show my all self-study progress. It includes projects from Machine Learning (supervised & unsupervised), Deep Learning, Computer Vision and Natural Language Processing. Some projects are still in progress. 
 
 ## Projects:
 
