@@ -109,7 +109,7 @@ The project includes data analysis and outliers detection of air quality data. T
 
 ### [World happiness reports analysis](https://github.com/aniass/world-happiness-report-analysis)
 
-The project contains 'World happiness report' analysis from three years (2015-2017). The analysis has done with SQL and python libraries.
+The project includes world happiness analysis over 5 years (2015-2019). The analysis has done with SQL and python libraries.
 - **Keywords**: data analysis, SQL, Python: SQLite3, pandas, matplotlib, seaborn.
 
 ## Python projects
