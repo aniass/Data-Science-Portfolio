@@ -7,6 +7,12 @@ The repository contains my data science, data analysis and python programming pr
 ## Machine learning:
 **ML supervised & unsupervised**:
 
+### [Fraud Detection](https://github.com/aniass/Fraud-Detection)
+The project concerns the anomaly detection in credit cards transactions using machine learning models and Autoencoders. The main aim of this project is predict whether a given transaction was a fraud or not.
+
+- **Models used:** Isolation Forest, Local Outlier Factor, Support Vector Machine (OneClassSVM), Autoencoder.
+- **Keywords**: Anomaly detection, Python: pandas, scikit-learn, tensorflow, seaborn, matplotlib.
+
 ### [Books Recommendation System](https://github.com/aniass/books-recommender-system)
 The project concerns the books recommendation system. It includes data analysis, data preparation and build model by using colaborative filtering and matrix factorization to get books recommendations.
 
