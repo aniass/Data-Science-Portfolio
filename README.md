@@ -120,6 +120,11 @@ The project includes world happiness analysis over 5 years (2015-2019). The anal
 
 ## Python projects
 
+### [Sentiment analysis app](https://github.com/aniass/sentiment-app)
+
+The REST API Web App for Sentiment analysis of clothes reviews by using Flask and Machine Learning model. 
+- **Keywords**: Flask, HTML, Python: pandas, regex, nltk.
+
 ### [Waste app](https://github.com/aniass/Waste-app)
 
 That is Streamlit application with using a Deep Learning model to determine if a given waste are recycle or organic. We used a previous trained CNN (Convolutional Neural Networks) algorithm to detect waste.
