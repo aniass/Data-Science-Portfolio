@@ -123,7 +123,7 @@ The project includes world happiness analysis over 5 years (2015-2019). The anal
 ### [Sentiment analysis app](https://github.com/aniass/sentiment-app)
 
 The REST API Web App for Sentiment analysis of clothes reviews by using Flask and Machine Learning model. 
-- **Keywords**: Flask, HTML, Python: pandas, regex, nltk.
+- **Keywords**: Flask, HTML, Python: pandas, scikit-learn, regex, nltk.
 
 ### [Waste app](https://github.com/aniass/Waste-app)
 
