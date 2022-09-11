@@ -135,6 +135,11 @@ That is Streamlit application with using a Deep Learning model to determine if a
 The script allows to make a basic crud operations by using python and SQLite3. 
 - **Keywords**: python, SQLite.
 
+### [CSV Report Processing](https://github.com/aniass/CSV_Report_Processing)
+
+This Python script allows to read a CSV file entered by the user, changes the data contained in it and returns the transformed data as a new CSV one.
+- **Keywords**: python, pycountry, csv.
+
 ### [Excel to sqlite database with python](https://github.com/aniass/Excel-to-sqlite-database-with-python)
 
 This Python script allows to match excel file with data from the database. We create an engine to connect with our database and load chose data into pandas dataframes. We select and filter data from database and match them to data comes from excel file.
