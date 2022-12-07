@@ -7,6 +7,12 @@ The repository contains my data science, data analysis and python programming pr
 ## Machine learning:
 **ML supervised & unsupervised**:
 
+### [Advertisement click prediction](https://github.com/aniass/ad-click-prediction)
+The project concerns prediction of the advertisement click using the machine learning. The main aim of this project is predict who is going to click ad on a website in the future. The analysis includes data analysis, data preparation and creation model by different machine learning models.
+
+- **Models used:** Logistic Regression, Linear SVC, Decision Tree, Random Forest, AdaBoost.
+- **Keywords**: Ad click prediction, Python: pandas, scikit-learn, seaborn, matplotlib.
+
 ### [Fraud Detection](https://github.com/aniass/Fraud-Detection)
 The project concerns the anomaly detection in credit cards transactions using machine learning models and Autoencoders. The main aim of this project is predict whether a given transaction was a fraud or not.
 
