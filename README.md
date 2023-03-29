@@ -136,6 +136,11 @@ The REST API Web App for Sentiment analysis of clothes reviews by using Flask an
 That is Streamlit application with using a Deep Learning model to determine if a given waste are recycle or organic. We used a previous trained CNN (Convolutional Neural Networks) algorithm to detect waste.
 - **Keywords**: python, streamlit, tensorflow, pillow.
 
+### [Excel report](https://github.com/aniass/excel-report)
+
+Automating the Excel report with python and openpyxl library. 
+- **Keywords**: python, openpyxl, pandas.
+
 ### [CRUD in python and SQLite](https://github.com/aniass/crud-sqlite3)
 
 The script allows to make a basic crud operations by using python and SQLite3. 
