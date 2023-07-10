@@ -13,11 +13,11 @@ The project concerns prediction of the advertisement click using the machine lea
 - **Models used:** Logistic Regression, Linear SVC, Decision Tree, Random Forest, AdaBoost.
 - **Keywords**: Ad click prediction, Python: pandas, scikit-learn, seaborn, matplotlib.
 
-### [Fraud Detection](https://github.com/aniass/Fraud-Detection)
-The project concerns the anomaly detection in credit cards transactions using machine learning models and Autoencoders. The main aim of this project is predict whether a given transaction was a fraud or not.
+### [Churn prediction](https://github.com/aniass/Churn-prediction)
+The project concerns churn prediction in the bank customers. It includes data analysis, data preparation and create model by using different machine learning algorithms to predict whether the client is going to leave the bank or not.
 
-- **Models used:** Isolation Forest, Local Outlier Factor, Support Vector Machine (OneClassSVM), Autoencoder.
-- **Keywords**: Anomaly detection, Python: pandas, scikit-learn, tensorflow, seaborn, matplotlib.
+- **Models used:** Logistic Regression, Random Forest, KNN, SVC, XGBoost;
+- **Keywords**: Churn prediction, Python: pandas, scikit-learn, seaborn, matplotlib, xgboost.
 
 ### [Books Recommendation System](https://github.com/aniass/books-recommender-system)
 The project concerns the books recommendation system. It includes data analysis, data preparation and build model by using colaborative filtering and matrix factorization to get books recommendations.
@@ -25,11 +25,11 @@ The project concerns the books recommendation system. It includes data analysis,
 - **Models used:** KNN, colaborative filtering, matrix factorization;
 - **Keywords**: recommendation system , python: pandas, scikit-learn, seaborn, matplotlib.
 
-### [Churn prediction](https://github.com/aniass/Churn-prediction)
-The project concerns churn prediction in the bank customers. It includes data analysis, data preparation and create model by using different machine learning algorithms to predict whether the client is going to leave the bank or not.
+### [Fraud Detection](https://github.com/aniass/Fraud-Detection)
+The project concerns the anomaly detection in credit cards transactions using machine learning models and Autoencoders. The main aim of this project is predict whether a given transaction was a fraud or not.
 
-- **Models used:** Logistic Regression, Random Forest, KNN, SVC, XGBoost;
-- **Keywords**: Churn prediction, Python: pandas, scikit-learn, seaborn, matplotlib, xgboost.
+- **Models used:** Isolation Forest, Local Outlier Factor, Support Vector Machine (OneClassSVM), Autoencoder.
+- **Keywords**: Anomaly detection, Python: pandas, scikit-learn, tensorflow, seaborn, matplotlib.
 
 ### [Customer segmentation ](https://github.com/aniass/Customer-segmentation)
 
@@ -108,6 +108,12 @@ In this project used OpenCV library to detect faces, eyes and smile in an image.
 - **Keywords**: Face detection, Python: OpenCV, pillow, numpy, matplotlib.
 
 ## Data analysis:
+
+### [World happiness reports analysis](https://github.com/aniass/world-happiness-report-analysis)
+
+The project includes world happiness analysis over 5 years (2015-2019). The analysis has done with SQL and python libraries.
+- **Keywords**: data analysis, SQL, Python: SQLite3, pandas, matplotlib, seaborn.
+
 ### [IT job market analysis](https://github.com/aniass/IT-job-market-analysis)
 
 The project concerns the analysis of the IT job market using data from GitHub, StackOverflow and Web scraping data. We have used SQL, Google Big Query and python data analysis libraries to analyze our data.
@@ -119,10 +125,10 @@ The project includes data analysis and outliers detection of air quality data. T
 - **Models used:** Isolation Forest.
 - **Keywords**: data analysis, outliers detection, Python: pandas, numpy, scikit-learn, seaborn.
 
-### [World happiness reports analysis](https://github.com/aniass/world-happiness-report-analysis)
+### [Sales Dashboard](https://github.com/aniass/sales-dashboard)
 
-The project includes world happiness analysis over 5 years (2015-2019). The analysis has done with SQL and python libraries.
-- **Keywords**: data analysis, SQL, Python: SQLite3, pandas, matplotlib, seaborn.
+The project interactive sales dashboard using Bokeh and Pandas
+- **Keywords**: data analysis, data visualization, dashboard, python, pandas, pandas-bokeh.
 
 ## Python projects
 
