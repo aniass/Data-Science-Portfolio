@@ -132,9 +132,12 @@ It is Streamlit application with using a Deep Learning model to determine if a g
 
 - **Keywords**: python, streamlit, tensorflow, pillow.
 
+### [ETL in python and SQLite](https://github.com/aniass/ETL-python-SQLite)
+The project includes a simple ETL process using Python and SQLite database. This pipeline allows to match reported chargebacks (Excel file) with transactions from the database.
+- **Keywords**: ETL, python, SQLite, pandas.
+
 ### [Excel report](https://github.com/aniass/excel-report)
 Automating the Excel report with python and openpyxl library. 
-
 - **Keywords**: python, openpyxl, pandas.
 
 ### [CRUD in python and SQLite](https://github.com/aniass/crud-sqlite3)
@@ -146,10 +149,6 @@ The script allows to make a basic crud operations by using python and SQLite3.
 This Python script allows to read a CSV file entered by the user, changes the data contained in it and returns the transformed data as a new CSV one.
 
 - **Keywords**: python, pycountry, csv.
-
-### [Excel to sqlite database with python](https://github.com/aniass/Excel-to-sqlite-database-with-python)
-The script allows to match excel file with data from the database. I have created an engine to connect with the database and load chose data into pandas dataframes. Then I have selected and filtered data from database and matched them to data comes from excel file.
-- **Keywords**: python, SQLite, pandas.
 
 ### [Extracting data using API](https://github.com/aniass/Extracting-data-using-API)
 In the project I have used the API to get the data and create a dataset. I have created two examples of get the data from an API. The data received was saved in json format and they were exported to a csv file.
