@@ -1,6 +1,14 @@
 # Data Science Projects Portfolio
 
-The repository contains my data science, data analysis and python programming projects which show my all self-study progress. It includes projects from Data Analysis, Machine Learning (supervised & unsupervised), Deep Learning, Computer Vision and Natural Language Processing. Some projects are still in progress. 
+The repository contains my data science, data analysis, SQL databases and python programming projects which show my all self-study progress. Some projects are still in progress.
+In portfolio includes projects from:
+- **Data Analysis** (data visualization, data cleaning, and data exploration) with python and SQL. 
+- **Machine Learning** (supervised & unsupervised) such as linear regression, classification, prediction, recommendation, customer segmentation and anomaly detection.
+- **Natural Language Processing**: text classification, sentiment analysis and text summarization.
+- **Deep Learning/Computer Vision**: image recognition.
+- **Python projects**: web applications with Flask and  Streamlit, simple pipeline with python, automating with python; 
+- **SQL and Python projects**: ETL process, basic CRUD.
+
 
 ## Projects:
 
@@ -9,37 +17,28 @@ The repository contains my data science, data analysis and python programming pr
 
 ### [Advertisement click prediction](https://github.com/aniass/ad-click-prediction)
 The project concerns prediction of the advertisement click using the machine learning. The main aim of this project is predict who is going to click ad on a website in the future. The analysis includes data analysis, data preparation and creation model by different machine learning models.
-
 - **Models used:** Logistic Regression, Linear SVC, Decision Tree, Random Forest, AdaBoost.
 - **Keywords**: Ad click prediction, Python: pandas, scikit-learn, seaborn, matplotlib.
 
 ### [Churn prediction](https://github.com/aniass/Churn-prediction)
 The project concerns churn prediction in the bank customers. It includes data analysis, data preparation and create model by using different machine learning algorithms to predict whether the client is going to leave the bank or not.
-
 - **Models used:** Logistic Regression, Random Forest, KNN, SVC, XGBoost;
 - **Keywords**: Churn prediction, Python: pandas, scikit-learn, seaborn, matplotlib, xgboost.
 
 ### [Books Recommendation System](https://github.com/aniass/books-recommender-system)
 The project concerns the books recommendation system. It includes data analysis, data preparation and build model by using colaborative filtering and matrix factorization to get books recommendations.
-
 - **Models used:** KNN, colaborative filtering, matrix factorization;
 - **Keywords**: recommendation system , python: pandas, scikit-learn, seaborn, matplotlib.
-
-### [Fraud Detection](https://github.com/aniass/Fraud-Detection)
-The project concerns the anomaly detection in credit cards transactions using machine learning models and Autoencoders. The main aim of this project is predict whether a given transaction was a fraud or not.
-
-- **Models used:** Isolation Forest, Local Outlier Factor, Support Vector Machine (OneClassSVM), Autoencoder.
-- **Keywords**: Anomaly detection, Python: pandas, scikit-learn, tensorflow, seaborn, matplotlib.
 
 ### [Customer segmentation ](https://github.com/aniass/Customer-segmentation)
 The project contains customer segmentation by using the RFM method (RFM score) and K-Means clustering for creating customer segments based on data provided.
 - **Models used:** K-Means, RFM method;
 - **Keywords**: RFM, K-Means clustering, Python: pandas, scikit-learn, scipy, matplotlib. 
 
-### [Market Basket analysis](https://github.com/aniass/Market-basket-analysis)
-The project concerns market basket analysis and product recommendation by using the association methods. I have build model by using the Apriori algorithm to products recomendation based on our data.
-- **Models used:** Apriori algorithm.
-- **Keywords**: product recomendation, data analysis, python, MLxtend.
+### [Fraud Detection](https://github.com/aniass/Fraud-Detection)
+The project concerns the anomaly detection in credit cards transactions using machine learning models and Autoencoders. The main aim of this project is predict whether a given transaction was a fraud or not.
+- **Models used:** Isolation Forest, Local Outlier Factor, Support Vector Machine (OneClassSVM), Autoencoder.
+- **Keywords**: Anomaly detection, Python: pandas, scikit-learn, tensorflow, seaborn, matplotlib.
 
 ### [Sales forecasting](https://github.com/aniass/Sales-forecasting)
 The project concerns sales forecasting by using time series model. The project includes sales data analysis and forecast of the number of orders by using Prophet library.
@@ -99,6 +98,11 @@ In the project I have used OpenCV library to detect faces, eyes and smile in an 
 
 ## Data analysis:
 
+### [Market Basket analysis](https://github.com/aniass/Market-basket-analysis)
+The project concerns market basket analysis and product recommendation by using the association methods. I have build model by using the Apriori algorithm to products recomendation based on our data.
+- **Models used:** Apriori algorithm.
+- **Keywords**: product recomendation, data analysis, python, MLxtend.
+
 ### [World happiness reports analysis](https://github.com/aniass/world-happiness-report-analysis)
 The project includes world happiness analysis over 5 years (2015-2019). For analysis I have used SQL (SQLite) and python.
 
@@ -132,18 +136,9 @@ It is Streamlit application with using a Deep Learning model to determine if a g
 
 - **Keywords**: python, streamlit, tensorflow, pillow.
 
-### [ETL in python and SQLite](https://github.com/aniass/ETL-python-SQLite)
-The project includes a simple ETL process using Python and SQLite database. This pipeline allows to match reported chargebacks (Excel file) with transactions from the database.
-- **Keywords**: ETL, python, SQLite, pandas.
-
 ### [Excel report](https://github.com/aniass/excel-report)
 Automating the Excel report with python and openpyxl library. 
 - **Keywords**: python, openpyxl, pandas.
-
-### [CRUD in python and SQLite](https://github.com/aniass/crud-sqlite3)
-The script allows to make a basic crud operations by using python and SQLite3. 
-
-- **Keywords**: python, SQLite.
 
 ### [CSV Report Processing](https://github.com/aniass/CSV_Report_Processing)
 This Python script allows to read a CSV file entered by the user, changes the data contained in it and returns the transformed data as a new CSV one.
@@ -154,3 +149,14 @@ This Python script allows to read a CSV file entered by the user, changes the da
 In the project I have used the API to get the data and create a dataset. I have created two examples of get the data from an API. The data received was saved in json format and they were exported to a csv file.
 
 - **Keywords**: python, pandas, requests, json.
+
+## SQL and Python projects
+### [ETL in python and SQLite](https://github.com/aniass/ETL-python-SQLite)
+The project includes a simple ETL process using Python and SQLite database. This pipeline allows to match reported chargebacks (Excel file) with transactions from the database.
+- **Keywords**: ETL, python, SQLite, pandas.
+
+### [CRUD in python and SQLite](https://github.com/aniass/crud-sqlite3)
+The script allows to make a basic crud operations by using python and SQLite3. 
+
+- **Keywords**: python, SQLite.
+
