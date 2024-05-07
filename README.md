@@ -120,9 +120,12 @@ The project includes data analysis and outliers detection of air quality data. T
 - **Models used:** Isolation Forest.
 - **Keywords**: data analysis, outliers detection, Python: pandas, numpy, scikit-learn, seaborn.
 
+### [HR Analytics Dashboard](https://github.com/aniass/HR-Analytics-Dashboard)
+The project contains the analysis of employee attrition data and create an interactive dashboard using Power BI.
+- **Keywords**: Power BI, data analysis, data visualization, dashboard.
+
 ### [Sales Dashboard](https://github.com/aniass/sales-dashboard)
 The project allows to build interactive dashboard from sales data by using pandas-bokeh library.
-
 - **Keywords**: data analysis, data visualization, dashboard, python, pandas, pandas-bokeh.
 
 ## Python projects
