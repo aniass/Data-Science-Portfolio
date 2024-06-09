@@ -115,7 +115,7 @@ The project includes data analysis and outliers detection of air quality data. T
 - **Models used:** Isolation Forest.
 - **Keywords**: data analysis, outliers detection, Python: pandas, numpy, scikit-learn, seaborn.
 
-  ### [World happiness reports analysis](https://github.com/aniass/world-happiness-report-analysis)
+### [World happiness reports analysis](https://github.com/aniass/world-happiness-report-analysis)
 The project includes world happiness analysis over 5 years (2015-2019). For analysis I have used SQL (SQLite) and python.
 
 - **Keywords**: data analysis, SQL, Python: SQLite3, pandas, matplotlib, seaborn.
