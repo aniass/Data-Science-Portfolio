@@ -3,9 +3,9 @@
 The repository contains my data science, data analysis, SQL databases and python programming projects which show my all self-study progress. Some projects are still in progress.
 
 In portfolio includes projects from:
-- **Data Analysis** (data visualization, data cleaning, and data exploration) with python and SQL. 
+- **Data Analysis** (data visualization, data cleaning and data exploration) with python and SQL. 
 - **Machine Learning** (supervised & unsupervised) such as linear regression, classification, prediction, recommendation, customer segmentation and anomaly detection.
-- **Natural Language Processing**: text classification, sentiment analysis and text summarization.
+- **Natural Language Processing**: text classification, sentiment analysis, spam detection and text summarization.
 - **Deep Learning/Computer Vision**: image recognition.
 - **Python projects**: web applications with Flask and  Streamlit, simple pipeline with python, automating with python; 
 - **SQL and Python projects**: ETL process, basic CRUD.
@@ -88,7 +88,7 @@ The project concerns recognition diseases on apple leaves based on their images.
 ### [Waste Classification](https://github.com/aniass/Waste-Classification)
 The project concerns waste classification to determine if it may be recycle or not. In the analysis I have used Convolutional Neural Network (CNN) model with data augumentation and transfer learning with pre-trained MobileNet V2 model.
 
-- **Models used:** Convolutional Neural Network.
+- **Models used:** Convolutional Neural Network, MobileNet V2.
 - **Keywords**: Image Recognition, data augumentation, Python: tensorflow, keras, numpy, matplotlib.
 
 ### [Face Detection](https://github.com/aniass/Face-Detection-with-OpenCV)
@@ -104,11 +104,6 @@ The project concerns market basket analysis and product recommendation by using 
 - **Models used:** Apriori algorithm.
 - **Keywords**: product recomendation, data analysis, python, MLxtend.
 
-### [World happiness reports analysis](https://github.com/aniass/world-happiness-report-analysis)
-The project includes world happiness analysis over 5 years (2015-2019). For analysis I have used SQL (SQLite) and python.
-
-- **Keywords**: data analysis, SQL, Python: SQLite3, pandas, matplotlib, seaborn.
-
 ### [IT job market analysis](https://github.com/aniass/IT-job-market-analysis)
 The project concerns the analysis of the IT job market using data from GitHub, StackOverflow and Web scraping data. I have used SQL, Google Big Query and Python (pandas, numpy, matplotlib, seaborn) to analyze the data.
 
@@ -119,6 +114,11 @@ The project includes data analysis and outliers detection of air quality data. T
 
 - **Models used:** Isolation Forest.
 - **Keywords**: data analysis, outliers detection, Python: pandas, numpy, scikit-learn, seaborn.
+
+  ### [World happiness reports analysis](https://github.com/aniass/world-happiness-report-analysis)
+The project includes world happiness analysis over 5 years (2015-2019). For analysis I have used SQL (SQLite) and python.
+
+- **Keywords**: data analysis, SQL, Python: SQLite3, pandas, matplotlib, seaborn.
 
 ### [HR Analytics Dashboard](https://github.com/aniass/HR-Analytics-Dashboard)
 The project contains the analysis of employee attrition data and create an interactive dashboard using Power BI.
