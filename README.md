@@ -106,8 +106,15 @@ The project concerns market basket analysis and product recommendation by using 
 
 ### [IT job market analysis](https://github.com/aniass/IT-job-market-analysis)
 The project concerns the analysis of the IT job market using data from GitHub, StackOverflow and Web scraping data. I have used SQL, Google Big Query and Python (pandas, numpy, matplotlib, seaborn) to analyze the data.
-
 - **Keywords**: data preprocessing, data cleaning, EDA, Python: pandas, numpy, seaborn; SQL, Google BigQuery. 
+
+### [Sales analysis - SQL Data Analysis](https://github.com/aniass/SQL-Sales-Analysis)
+The project contains the analysis of example sales data with SQL. The project showcase my knowledge and skils in SQL such as data manipulation, analysis and querying.
+- **Keywords**: SQL, data analysis, Microsoft SQL Server.
+
+### [HR Analytics Dashboard](https://github.com/aniass/HR-Analytics-Dashboard)
+The project contains the analysis of employee attrition data and create an interactive dashboard using Power BI.
+- **Keywords**: Power BI, data analysis, data visualization, dashboard.
 
 ### [Air quality analysis](https://github.com/aniass/Air-quality-analysis)
 The project includes data analysis and outliers detection of air quality data. The outliers detection have been made with a few methods such as Tukey's method (IQR) and Isolation Forest algorithm.
@@ -117,12 +124,7 @@ The project includes data analysis and outliers detection of air quality data. T
 
 ### [World happiness reports analysis](https://github.com/aniass/world-happiness-report-analysis)
 The project includes world happiness analysis over 5 years (2015-2019). For analysis I have used SQL (SQLite) and python.
-
 - **Keywords**: data analysis, SQL, Python: SQLite3, pandas, matplotlib, seaborn.
-
-### [HR Analytics Dashboard](https://github.com/aniass/HR-Analytics-Dashboard)
-The project contains the analysis of employee attrition data and create an interactive dashboard using Power BI.
-- **Keywords**: Power BI, data analysis, data visualization, dashboard.
 
 ### [Sales Dashboard](https://github.com/aniass/sales-dashboard)
 The project allows to build interactive dashboard from sales data by using pandas-bokeh library.
