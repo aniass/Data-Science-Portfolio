@@ -1,8 +1,8 @@
 # Data Science Projects Portfolio
 
-The repository contains my data science, data analysis, SQL databases and python programming projects which show my all self-study progress. Some projects are still in progress.
+The portfolio contains my projects from data science, data analysis, SQL databases and python programming which show my all self-study progress. 
 
-In portfolio includes projects from:
+The projects includes a few categories:
 - **Data Analysis** (data visualization, data cleaning and data exploration) with python and SQL. 
 - **Machine Learning** (supervised & unsupervised) such as linear regression, classification, prediction, recommendation, customer segmentation and anomaly detection.
 - **Natural Language Processing**: text classification, sentiment analysis, spam detection and text summarization.
